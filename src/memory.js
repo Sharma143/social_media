@@ -1,6 +1,5 @@
 const_dirname = path.dirname("")
 
-import build from '../build'
 
 const buildPath = path.join(_dirname, "../build");
 
